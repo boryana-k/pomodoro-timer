@@ -3,3 +3,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Toastify__toast-body > div:last-child {
+  font-family: "Kanit", system-ui;
+  font-weight: 300;
+}
+
+@media only screen and (max-width: 480px) {
+
+  .Toastify__toast--stacked[data-pos=top] {
+    top: 20px;
+    margin: 0 50px;
+    width: calc(100% - 100px);
+  }
+}
