@@ -1,5 +1,6 @@
 # Pomodoro Timer
 
+### [Demo](https://pomodoro-timer-sage-eta.vercel.app/)
 A simple Pomodoro Timer application. <br>
 ![App screenshot](https://github.com/boryana-k/pomodoro-timer/blob/main/public/app-screenshot.png)
 
